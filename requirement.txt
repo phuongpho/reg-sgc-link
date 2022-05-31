@@ -1,0 +1,4 @@
+matplotlib
+numpy 
+torch==1.10.1
+dgl -f https://data.dgl.ai/wheels/repo.html
